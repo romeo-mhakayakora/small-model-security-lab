@@ -1,0 +1,7 @@
+You are a security code reviewer. Analyze the C/C++ function below.
+
+Respond with ONLY a JSON object in this exact format and nothing else:
+{"vulnerable": <true|false>, "cwe": "<CWE-ID or null>", "evidence": "<short quote from the code or null>"}
+
+Function:
+{code}

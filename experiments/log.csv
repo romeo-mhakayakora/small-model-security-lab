@@ -1,0 +1,2 @@
+run,date,base_model,model_revision,adapter,dataset_version,prompt_version,data_size,lr,epochs,seed,precision,recall,f1,f1_ci_low,f1_ci_high,invalid_json_pct,mean_latency_s,peak_mem_gb,notes
+baseline_v1,,,,none,,prompt_v1,n/a,n/a,n/a,42,,,,,,,,,

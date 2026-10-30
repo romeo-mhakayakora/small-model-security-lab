@@ -1,0 +1,13 @@
+# Unpinned starting list. After everything works: pip freeze > requirements.lock
+transformers
+datasets
+peft
+trl
+bitsandbytes
+accelerate
+inspect-ai
+pydantic
+scikit-learn
+pandas
+numpy
+pytest
